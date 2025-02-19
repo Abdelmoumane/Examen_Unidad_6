@@ -15,9 +15,3 @@ Este repositorio contiene la documentación del **Examen Práctico de la Unidad 
 
 ---
 
-##  Instalación y Configuración
-
-### **1️ Clonar el repositorio**
-```bash
-git clone https://github.com/Abdelmoumane/Examen_Unidad_6.git
-cd Examen_Unidad_6
