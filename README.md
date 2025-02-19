@@ -2,6 +2,11 @@
 
 Este repositorio contiene la documentación del **Examen Práctico de la Unidad 6**, utilizando **MkDocs** y **GitHub Pages**.
 
+**Accede a la documentación aquí:**  
+➡️ [https://Abdelmoumane.github.io/Examen_Unidad_6/](https://Abdelmoumane.github.io/Examen_Unidad_6/)
+
+---
+
 ##  Contenido
 - **Inicio**: Página principal con la introducción y el índice.
 - **Guía de Instalación Windows 11**: Pasos detallados para instalar Windows 11.
